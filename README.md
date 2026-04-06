@@ -1,4 +1,52 @@
-## Hi there 👋
+## Hi | Muli Bwanji? 👋
+
+I am a backend web application developer with hands-on experience in software development and data pipeline integrations.
+
+## STACK
+
+### Database
+
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+-  ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)
+-  ![Redis](https://img.shields.io/badge/Redis-red?logo=redis)
+- PrismaORM
+- TypeORM
+
+### Language / Runtime
+
+1. Python
+2. TypeScript
+3. JavaScript
+4. Node.js
+5. C
+
+### Frameworks
+
+1. Vue.js(2&3)
+2. Django, DjangoRestFramework
+3. FastAPI
+4. ReactJS
+5. Next.js
+6. NestJS
+
+### DevOps
+
+1. Jenkins
+2. Docker
+3. AWS ECS
+4. Github Actions
+
+### Data Tooling
+
+1. Apache Airflow
+2. NumPy
+3. Pandas
+
+### Microservices
+
+1. RabbitMQ
+2. Celery
+3. Serverless
 
 <!--
 **tnaomi/tnaomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
