@@ -1,8 +1,8 @@
-## Hi | Muli Bwanji? 👋
+## Hi! | Muli Bwanji? 👋
 
-I am a backend web application developer with hands-on experience in software development and data pipeline integrations.
+I am a backend web application developer with hands-on experience in software development and data pipeline integrations. An unknown is just a challenge waiting to be discovered and conquered! 💪🏾💪🏾 Currently exploring **Data Engineering & Pipeline Optimisation** and **Distributed Systems & Microservices Architecture**
 
-## STACK
+## What I've Worked With So Far..
 
 ### Database
 
@@ -18,7 +18,7 @@ I am a backend web application developer with hands-on experience in software de
 
 ### DevOps
 
-![](https://img.shields.io/badge/-white?logo=jenkins) ![](https://img.shields.io/badge/-gold?logo=docker) ![](https://img.shields.io/badge/Github-Actions-blue?logo=github)
+![](https://img.shields.io/badge/Jenkins-white?logo=jenkins) ![](https://img.shields.io/badge/Docker-gold?logo=docker) ![](https://img.shields.io/badge/Github-Actions-blue?logo=github)
 
 ### Data Tooling
 
@@ -26,5 +26,9 @@ I am a backend web application developer with hands-on experience in software de
 
 ### Microservices
 
-![](https://img.shields.io/badge/-white?logo=rabbitmq) ![](https://img.shields.io/badge/-green?logo=celery) ![](https://img.shields.io/badge/-snow?logo=serverless)
+![](https://img.shields.io/badge/RabbitMQ-white?logo=rabbitmq) ![](https://img.shields.io/badge/Celery-green?logo=celery) ![](https://img.shields.io/badge/Serverless-snow?logo=serverless)
 
+## 🌱 Life Beyond Code
+
+- 🏃‍♀️ Running — marathons, sprints and shin splints
+- 🧘‍♀️ Yoga — oooomm!
