@@ -14,11 +14,11 @@ I am a backend web application developer with hands-on experience in software de
 
 ### Language / Runtime
 
-1. Python
-2. TypeScript
-3. JavaScript
-4. Node.js
-5. C
+- Python ![](https://img.shields.io/badge/Python-yellow?logo=python)
+- TypeScript ![](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+- JavaScript ![](https://img.shields.io/badge/-white?logo=javascript)
+- Node.js ![](https://img.shields.io/badge/-green?logo=node.js)
+- C ![](https://img.shields.io/badge/-blue?logo=c)
 
 ### Frameworks
 
