@@ -6,59 +6,25 @@ I am a backend web application developer with hands-on experience in software de
 
 ### Database
 
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
--  ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)
--  ![Redis](https://img.shields.io/badge/Redis-red?logo=redis)
-- PrismaORM
-- TypeORM
+![](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql) ![](https://img.shields.io/badge/MySQL-orange?logo=mysql) ![](https://img.shields.io/badge/Redis-red?logo=redis)
 
 ### Language / Runtime
 
-- Python ![](https://img.shields.io/badge/Python-yellow?logo=python)
-- TypeScript ![](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
-- JavaScript ![](https://img.shields.io/badge/-white?logo=javascript)
-- Node.js ![](https://img.shields.io/badge/-green?logo=node.js)
-- C ![](https://img.shields.io/badge/-blue?logo=c)
+![](https://img.shields.io/badge/Python-yellow?logo=python) ![](https://img.shields.io/badge/TypeScript-blue?logo=typescript) ![](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) ![](https://img.shields.io/badge/Node.js-green?logo=node.js) ![](https://img.shields.io/badge/C-blue?logo=c)
 
 ### Frameworks
 
-1. Vue.js(2&3)
-2. Django, DjangoRestFramework
-3. FastAPI
-4. ReactJS
-5. Next.js
-6. NestJS
+![](https://img.shields.io/badge/Vue-gray?logo=vue.js) ![](https://img.shields.io/badge/Django-darkgreen?logo=django) ![](https://img.shields.io/badge/Fast_API-grey?logo=fastapi) ![](https://img.shields.io/badge/React%20JS-grey?logo=react) ![](https://img.shields.io/badge/React.js-black?logo=next.js) ![](https://img.shields.io/badge/NestJS-darkred?logo=nestjs)
 
 ### DevOps
 
-1. Jenkins
-2. Docker
-3. AWS ECS
-4. Github Actions
+![](https://img.shields.io/badge/-white?logo=jenkins) ![](https://img.shields.io/badge/-gold?logo=docker) ![](https://img.shields.io/badge/Github-Actions-blue?logo=github)
 
 ### Data Tooling
 
-1. Apache Airflow
-2. NumPy
-3. Pandas
+![](https://img.shields.io/badge/Apache_Airflow-darkcyan?logo=apacheairflow) ![](https://img.shields.io/badge/NumPy-blue?logo=apacheairflow) ![](https://img.shields.io/badge/Pandas-black?logo=pandas)
 
 ### Microservices
 
-1. RabbitMQ
-2. Celery
-3. Serverless
+![](https://img.shields.io/badge/-white?logo=rabbitmq) ![](https://img.shields.io/badge/-green?logo=celery) ![](https://img.shields.io/badge/-snow?logo=serverless)
 
-<!--
-**tnaomi/tnaomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
