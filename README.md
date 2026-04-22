@@ -1,6 +1,6 @@
 ## Hi! | Muli Bwanji? 👋
 
-I am a backend web application developer with hands-on experience in software development and data pipeline integrations. An unknown is just a challenge waiting to be discovered and conquered! 💪🏾💪🏾 Currently exploring **Data Engineering & Pipeline Optimisation** and **Distributed Systems & Microservices Architecture**
+I am a backend web application developer with hands-on experience in software development and data pipeline integrations. An unknown is just a challenge waiting to be discovered and conquered! 💪🏾💪🏾 Currently exploring **Serverless Computing & Microservices Architecture**
 
 ## What I've Worked With So Far..
 
@@ -10,7 +10,7 @@ I am a backend web application developer with hands-on experience in software de
 
 ### Language / Runtime
 
-![](https://img.shields.io/badge/Python-yellow?logo=python) ![](https://img.shields.io/badge/TypeScript-blue?logo=typescript) ![](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) ![](https://img.shields.io/badge/Node.js-green?logo=node.js) ![](https://img.shields.io/badge/C-blue?logo=c)
+![](https://img.shields.io/badge/Python-black?logo=python) ![](https://img.shields.io/badge/TypeScript-gray?logo=typescript) ![](https://img.shields.io/badge/JavaScript-black?logo=javascript) ![](https://img.shields.io/badge/Node.js-grey?logo=node.js) ![](https://img.shields.io/badge/C-grey?logo=c)
 
 ### Frameworks
 
