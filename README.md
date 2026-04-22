@@ -14,7 +14,7 @@ I am a backend web application developer with hands-on experience in software de
 
 ### Frameworks
 
-![](https://img.shields.io/badge/Vue-gray?logo=vue.js) ![](https://img.shields.io/badge/Django-darkgreen?logo=django) ![](https://img.shields.io/badge/Fast_API-grey?logo=fastapi) ![](https://img.shields.io/badge/React%20JS-grey?logo=react) ![](https://img.shields.io/badge/React.js-black?logo=next.js) ![](https://img.shields.io/badge/NestJS-darkred?logo=nestjs)
+![](https://img.shields.io/badge/Vue-gray?logo=vue.js) ![](https://img.shields.io/badge/Django-darkgreen?logo=django) ![](https://img.shields.io/badge/Fast_API-grey?logo=fastapi) ![](https://img.shields.io/badge/React%20JS-grey?logo=react) ![](https://img.shields.io/badge/Next.js-black?logo=next.js) ![](https://img.shields.io/badge/NestJS-darkred?logo=nestjs)
 
 ### DevOps
 
