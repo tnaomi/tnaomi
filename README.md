@@ -1,6 +1,11 @@
 ## Hi! | Muli Bwanji? 👋
 
-I am a backend web application developer with hands-on experience in software development and data pipeline integrations. An unknown is just a challenge waiting to be discovered and conquered! 💪🏾💪🏾 Currently exploring **Serverless Computing & Microservices Architecture**
+This is where I make small things that matter and make up big things! I automate stuff:  
+- structured response JSON data that you have to analyse each time? **-->** an internal tool that parses JSON and outputs readable JSON for faster debugging and/or cross-functional collaboration,
+- project setup and scaffolding taking up the better part of a sprint just to get everything up and running? **-->** reusable project templates and VSCode extensions for commonly used snippets,
+- devs with different development preferences? **-->** simple plug-in config functionality in your Typescript datasource,
+- need full test coverage **-->** deployment automation with security testing and alerts,
+and so many more! 
 
 ## What I've Worked With So Far..
 
